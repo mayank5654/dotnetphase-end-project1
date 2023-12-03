@@ -1,0 +1,7 @@
+F:\practic exercise\practice project\phase end project\phase 1\FastPace Cricket Academy\FastPace Cricket Academy\bin\Debug\FastPace Cricket Academy.exe.config
+F:\practic exercise\practice project\phase end project\phase 1\FastPace Cricket Academy\FastPace Cricket Academy\bin\Debug\FastPace Cricket Academy.exe
+F:\practic exercise\practice project\phase end project\phase 1\FastPace Cricket Academy\FastPace Cricket Academy\bin\Debug\FastPace Cricket Academy.pdb
+F:\practic exercise\practice project\phase end project\phase 1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.csproj.AssemblyReference.cache
+F:\practic exercise\practice project\phase end project\phase 1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.csproj.CoreCompileInputs.cache
+F:\practic exercise\practice project\phase end project\phase 1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.exe
+F:\practic exercise\practice project\phase end project\phase 1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.pdb
